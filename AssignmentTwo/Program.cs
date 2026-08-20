@@ -13,6 +13,13 @@
             //Console.WriteLine(title);
 
             #endregion
+
+            //#region Questions 02
+            //string title = "Clean Code";
+            //string title02 = "Clean Code";
+            //Console.WriteLine(object.ReferenceEquals(title, title02));
+
+            //#endregion
         }
     }
 }
