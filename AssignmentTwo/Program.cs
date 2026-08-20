@@ -1,4 +1,6 @@
-﻿namespace AssignmentTwo
+﻿using System.Text;
+
+namespace AssignmentTwo
 {
     internal class Program
     {
@@ -6,7 +8,7 @@
         {
             Console.WriteLine("Hello, World!");
 
-            #region Questions 01
+            #region Question 01
             //string title = "Clean Code";
             //string upperTitle = title.ToUpper();
             //Console.WriteLine(upperTitle);
@@ -14,12 +16,23 @@
 
             #endregion
 
-            //#region Questions 02
+            #region Question 02
+
             //string title = "Clean Code";
             //string title02 = "Clean Code";
             //Console.WriteLine(object.ReferenceEquals(title, title02));
 
-            //#endregion
+            #endregion
+
+            #region Question 03
+
+            //StringBuilder sb = new StringBuilder();
+            //sb.Append("Book List");
+            //sb.Append(" - updated");
+            //Console.WriteLine(sb);
+
+            #endregion
+
         }
     }
 }
