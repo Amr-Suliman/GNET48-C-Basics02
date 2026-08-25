@@ -47,6 +47,13 @@ namespace AssignmentTwo
             //Console.WriteLine($"Book : {title}, Pages: {pages}");
             #endregion
 
+            #region Question 07
+            //string title = "Clean Code";
+            //int pages = 464;
+            //Console.WriteLine(string.Format("Book : {0}, Pages: {1}", title, pages));
+            #endregion
+
+
         }
     }
 }
