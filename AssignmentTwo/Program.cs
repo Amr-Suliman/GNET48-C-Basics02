@@ -113,6 +113,18 @@ namespace AssignmentTwo
             //    i++;
             //}
             #endregion
+
+            #region Question 13
+            int i = 0;
+            do
+            {
+                Console.WriteLine("Checking Book..");
+                i++;
+            }
+            while (i<3);
+            #endregion
+
+
         }
     }
 }
