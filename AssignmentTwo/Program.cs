@@ -35,6 +35,12 @@ namespace AssignmentTwo
             //Console.WriteLine(sb);
             #endregion
 
+            #region Question 05
+            //string title = "Clean Code";
+            //int pages = 464;
+            //Console.WriteLine("Book : " + title + ", Pages: " + pages);
+            #endregion
+
         }
     }
 }
