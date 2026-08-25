@@ -124,6 +124,15 @@ namespace AssignmentTwo
             while (i<3);
             #endregion
 
+            #region Question 14
+            //string[] books = {"Clean Code ", "The Pragmatic Programmer", "Refactoring" };
+            //foreach (string book in books)
+            //{
+            //    Console.WriteLine(book);
+            //}
+            #endregion
+
+
 
         }
     }
